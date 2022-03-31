@@ -1,0 +1,296 @@
+{
+	"BUILD_DIR" : "C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Pseudo_Final_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Mociran/Desktop/PseudoFinal",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/Mociran/Desktop/PseudoFinal/CMakeLists.txt",
+		"C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake",
+		"C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeGenericSystem.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Platform/Windows.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Platform/WindowsPaths.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeFindCodeBlocks.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/ProcessorCount.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeCInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Compiler/GNU-C.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Compiler/GNU.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Platform/Windows-GNU-C.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Platform/Windows-GNU.cmake",
+		"C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeRCInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Platform/Windows-windres.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeCXXInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Compiler/GNU-CXX.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Compiler/GNU.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Platform/Windows-GNU-CXX.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Platform/Windows-GNU.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeParseArguments.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"C:/Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/Mociran/Desktop/PseudoFinal",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/addwindow.h",
+			"MU",
+			"Z4O2FVWSL5/moc_addwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/addwindowdog.h",
+			"MU",
+			"Z4O2FVWSL5/moc_addwindowdog.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/deletewindowcat.h",
+			"MU",
+			"Z4O2FVWSL5/moc_deletewindowcat.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/deletewindowdog.h",
+			"MU",
+			"Z4O2FVWSL5/moc_deletewindowdog.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/dogwindow.h",
+			"MU",
+			"Z4O2FVWSL5/moc_dogwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/funcwindow.h",
+			"MU",
+			"Z4O2FVWSL5/moc_funcwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/mainwindow.h",
+			"MU",
+			"Z4O2FVWSL5/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/updatewindowcat.h",
+			"MU",
+			"Z4O2FVWSL5/moc_updatewindowcat.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/updatewindowdog.h",
+			"MU",
+			"Z4O2FVWSL5/moc_updatewindowdog.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_addwindow.h",
+			"MU",
+			"KRKR4BN5RM/moc_ui_addwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_addwindowdog.h",
+			"MU",
+			"KRKR4BN5RM/moc_ui_addwindowdog.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_deletewindowcat.h",
+			"MU",
+			"KRKR4BN5RM/moc_ui_deletewindowcat.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_deletewindowdog.h",
+			"MU",
+			"KRKR4BN5RM/moc_ui_deletewindowdog.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_dogwindow.h",
+			"MU",
+			"KRKR4BN5RM/moc_ui_dogwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_funcwindow.h",
+			"MU",
+			"KRKR4BN5RM/moc_ui_funcwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_mainwindow.h",
+			"MU",
+			"KRKR4BN5RM/moc_ui_mainwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_updatewindowcat.h",
+			"MU",
+			"KRKR4BN5RM/moc_ui_updatewindowcat.cpp",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_updatewindowdog.h",
+			"MU",
+			"KRKR4BN5RM/moc_ui_updatewindowdog.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Pseudo_Final_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Pseudo_Final_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Qt5/5.15.2/mingw81_64/include",
+		"C:/Qt5/5.15.2/mingw81_64/include/QtCore",
+		"C:/Qt5/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"C:/Qt5/5.15.2/mingw81_64/include/QtGui",
+		"C:/Qt5/5.15.2/mingw81_64/include/QtANGLE",
+		"C:/Qt5/5.15.2/mingw81_64/include/QtWidgets",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.20/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Pseudo_Final_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/CMakeFiles/Pseudo_Final_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt5/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt5/5.15.2/mingw81_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/CMakeFiles/Pseudo_Final_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "C:/Users/Mociran/Desktop/PseudoFinal/CPP/Caini.cpp", "MU", null ],
+		[ "C:/Users/Mociran/Desktop/PseudoFinal/CPP/Entitate.cpp", "MU", null ],
+		[ "C:/Users/Mociran/Desktop/PseudoFinal/CPP/Pisici.cpp", "MU", null ],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/CPP/ServiceCaini.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/CPP/ServicePisici.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/addwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/addwindowdog.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/deletewindowcat.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/deletewindowdog.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/updatewindowcat.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/updatewindowdog.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Users/Mociran/Desktop/PseudoFinal/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

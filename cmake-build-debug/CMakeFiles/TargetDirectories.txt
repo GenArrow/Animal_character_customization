@@ -1,0 +1,4 @@
+C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/CMakeFiles/Pseudo_Final.dir
+C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/CMakeFiles/Pseudo_Final_autogen.dir

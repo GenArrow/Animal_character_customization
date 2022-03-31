@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Pseudo_Final"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\Qt5\;CMake Files\..\..\..\..\Qt5\5.15.2\;CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\;CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\;CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\;CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5\;CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Core\;CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Pseudo_Final">
+				<Option output="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Pseudo_Final.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add directory="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Pseudo_Final_autogen/include"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/include"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/include/QtCore"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/./mkspecs/win32-g++"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/include/QtGui"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/include/QtANGLE"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/include/QtWidgets"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 Pseudo_Final"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Pseudo_Final/fast">
+				<Option output="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Pseudo_Final.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add directory="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Pseudo_Final_autogen/include"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/include"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/include/QtCore"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/./mkspecs/win32-g++"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/include/QtGui"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/include/QtANGLE"/>
+					<Add directory="C:/Qt5/5.15.2/mingw81_64/include/QtWidgets"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 Pseudo_Final/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Pseudo_Final_autogen">
+				<Option working_dir="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 Pseudo_Final_autogen"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPP/Caini.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPP/Entitate.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPP/Pisici.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPP/ServiceCaini.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPP/ServicePisici.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/addwindow.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/addwindowdog.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/deletewindowcat.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/deletewindowdog.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/mainwindow.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/updatewindowcat.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CPPWindow/updatewindowdog.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/addwindow.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/addwindowdog.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/deletewindowcat.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/deletewindowdog.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/dogwindow.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/funcwindow.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/mainwindow.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/updatewindowcat.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/HeadereWindow/updatewindowdog.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_addwindow.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_addwindowdog.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_deletewindowcat.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_deletewindowdog.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_dogwindow.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_funcwindow.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_mainwindow.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_updatewindowcat.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/UI/ui_updatewindowdog.h">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Pseudo_Final_autogen/mocs_compilation.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/main.cpp">
+			<Option target="Pseudo_Final"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Mociran/Desktop/PseudoFinal/../../../../Qt5/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

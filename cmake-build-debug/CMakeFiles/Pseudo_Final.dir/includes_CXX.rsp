@@ -1,0 +1,1 @@
+-IC:/Users/Mociran/Desktop/PseudoFinal/cmake-build-debug/Pseudo_Final_autogen/include -isystem C:/Qt5/5.15.2/mingw81_64/include -isystem C:/Qt5/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt5/5.15.2/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt5/5.15.2/mingw81_64/include/QtGui -isystem C:/Qt5/5.15.2/mingw81_64/include/QtANGLE -isystem C:/Qt5/5.15.2/mingw81_64/include/QtWidgets
