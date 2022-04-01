@@ -94,8 +94,8 @@ def Creeaza():
     if hatcolor != "N-are":
         img = Image.open(os.path.join(os.getcwd(), 'Dataset\\BaseHatDog.png'))
         tinted = tint_image(img, hatcolor)
-        tinted.save(os.path.join(os.getcwd(), 'Dataset\\tempdogimage.png'))
-        background_img_raw = Image.open(os.path.join(os.getcwd(), 'Dataset\\tempdogimage.png'))
+        tinted.save(os.path.join(os.getcwd(), 'Dataset\\temphatimage.png'))
+        background_img_raw = Image.open(os.path.join(os.getcwd(), 'Dataset\\temphatimage.png'))
         background_img = numpy.array(background_img_raw)
         background_img_float = background_img.astype(float)
 
@@ -106,7 +106,7 @@ def Creeaza():
         blended_img_float = soft_light(background_img_float, foreground_img_float, 1)
         blended_img = numpy.uint8(blended_img_float)
         blended_img_raw = Image.fromarray(blended_img)
-        blended_img_raw.save(os.path.join(os.getcwd(), 'Dataset\\tempdogimage.png'))
+        blended_img_raw.save(os.path.join(os.getcwd(), 'Dataset\\temphatimage.png'))
         add_hat_to_dog()
 
     final = Image.open(os.path.join(os.getcwd(), 'Dataset\\tempdogimage.png'))

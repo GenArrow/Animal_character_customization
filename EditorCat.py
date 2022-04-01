@@ -15,7 +15,7 @@ def add_hat_to_cat():
 
 
 def add_3D_to_cat():
-    img = Image.open(os.path.join(os.getcwd(), 'Dataset\\Base3DCat.png'))
+    img = Image.open(os.path.join(os.getcwd(), 'Dataset\\Base3D.png'))
     background = Image.open(os.path.join(os.getcwd(), 'Dataset\\tempcatimage.png'))
 
     background.paste(img, (0, 0), img)
@@ -23,7 +23,7 @@ def add_3D_to_cat():
 
 
 def add_Sunglasses_to_cat():
-    img = Image.open(os.path.join(os.getcwd(), 'Dataset\\BaseSunglassesCat.png'))
+    img = Image.open(os.path.join(os.getcwd(), 'Dataset\\BaseSunglasses.png'))
     background = Image.open(os.path.join(os.getcwd(), 'Dataset\\tempcatimage.png'))
 
     background.paste(img, (0, 0), img)
@@ -31,7 +31,7 @@ def add_Sunglasses_to_cat():
 
 
 def add_Pendant_to_cat():
-    img = Image.open(os.path.join(os.getcwd(), 'Dataset\\BaseChainCat.png'))
+    img = Image.open(os.path.join(os.getcwd(), 'Dataset\\BaseChain.png'))
     background = Image.open(os.path.join(os.getcwd(), 'Dataset\\tempcatimage.png'))
 
     background.paste(img, (0, 0), img)
@@ -90,14 +90,14 @@ def Creeaza():
         add_Pendant_to_cat()
 
     if hatcolor != "N-are":
-        img = Image.open(os.path.join(os.getcwd(), 'Dataset\\BaseHatCat.png'))
+        img = Image.open(os.path.join(os.getcwd(), 'Dataset\\BaseHat.png'))
         tinted = tint_image(img, hatcolor)
         tinted.save(os.path.join(os.getcwd(), 'Dataset\\temphatimage.png'))
         background_img_raw = Image.open(os.path.join(os.getcwd(), 'Dataset\\temphatimage.png'))
         background_img = numpy.array(background_img_raw)
         background_img_float = background_img.astype(float)
 
-        foreground_img_raw = Image.open(os.path.join(os.getcwd(), 'Dataset\\BaseHatCat.png'))
+        foreground_img_raw = Image.open(os.path.join(os.getcwd(), 'Dataset\\BaseHat.png'))
         foreground_img = numpy.array(foreground_img_raw)
         foreground_img_float = foreground_img.astype(float)
 
